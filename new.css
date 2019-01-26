@@ -1,0 +1,22 @@
+
+.bor{
+	float:left;
+	margin-right: 10px;
+	width: 50px;
+	height: 50px;
+	border: 2px solid #222;
+	border-radius: 360px;
+}
+.item{
+	border-bottom: 1px solid #BBB;
+	clear: both;
+	padding: 15px;
+}
+.st{
+	font-size: 12px;
+	color: #999;
+}
+.tm{
+	float: right;
+	color: #F00;
+}
